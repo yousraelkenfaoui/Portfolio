@@ -19,7 +19,7 @@ Welcome to my data science portfolio! I am a passionate data professional with a
 **Skills**: Streamlit, Python, Data Visualization, API  
 **Highlights**: Deployed a dashboard that allows real-time predictions based on user input.
 
-### 4. [Exploratory Data Analysis (EDA) on Environmental Risk Data]([link-to-project](https://github.com/yousraelkenfaoui/Projet-Kayak-Jedha--Bloc-1))
+### 4. [Exploratory Data Analysis (EDA) on Environmental Risk Data]([https://github.com/yousraelkenfaoui/Projet-Kayak-Jedha--Bloc-1]
 **Description**: Conducted EDA on environmental risk data to uncover patterns and insights that can be used to improve policy making.  
 **Skills**: Python, Pandas, Matplotlib, Seaborn  
 **Highlights**: Visualized key trends and developed actionable insights.
